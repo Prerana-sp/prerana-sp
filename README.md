@@ -1,5 +1,5 @@
 # Hi ,I am Prerana S P
-Bridging Finance and Technology | B.Com  Graduate + Fintech & AI Candidate @ BITS Pilani | Aspiring Data & Fintech Analyst | Excel, Power BI & Tableau enthusiast | Data-Driven Insights for Financial Services.
+Bridging Finance & Technology | B.Com Graduate + FinTech & AI @ BITSOM | Aspiring Fintech, insurtech, operational Analyst | Excel, Power BI, SQL & basic python.
 
 Email Me : preranasp1@gmail.com 
 ## linkedin-https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BPdPo3Lt%2BRba6A23fZ5%2BLOw%3D%3D
