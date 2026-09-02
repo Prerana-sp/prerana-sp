@@ -1,7 +1,7 @@
 # Hi ,I am Prerana S P
 Bridging Finance and Technology | B.Com  Graduate + Fintech & AI Candidate @ BITS Pilani | Aspiring Data & Fintech Analyst | Excel, Power BI & Tableau enthusiast | Data-Driven Insights for Financial Services.
 
-Email Me : preranasp20@gmail.com 
+Email Me : preranasp1@gmail.com 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/preranaspr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prerana-s-p?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preranasp20@gmail.com) 
