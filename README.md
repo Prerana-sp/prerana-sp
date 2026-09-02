@@ -2,7 +2,7 @@
 Bridging Finance and Technology | B.Com  Graduate + Fintech & AI Candidate @ BITS Pilani | Aspiring Data & Fintech Analyst | Excel, Power BI & Tableau enthusiast | Data-Driven Insights for Financial Services.
 
 Email Me : preranasp1@gmail.com 
-
+## linkedin-https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BPdPo3Lt%2BRba6A23fZ5%2BLOw%3D%3D
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Prerana-sp&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Prerana-sp&theme=dark&hide_border=false)<br/>
